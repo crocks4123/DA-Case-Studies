@@ -12,7 +12,7 @@ The project titled "DS Job Glassdoor Analysis" focuses on the analysis of a data
 
 I primarily used Visual Studio Code (VSCode) and Google Colab for developing and running these projects. VSCode provided a versatile environment for coding, while Google Colab allowed me to leverage its powerful computing resources and collaborative features for more intensive analyses.
 
-## 3. House Price Prediction (Hands-On ML, Ch. 2)
+## 3. House Price Prediction (Hands-On ML, Ch. 2, da-s-210623)
 
 The "House Price Prediction" project is inspired by the second chapter of "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron. Using Python and popular libraries like Scikit-Learn, Pandas, and Matplotlib, I analyzed a dataset with residential property features to predict house prices. This case study honed my regression analysis and model evaluation skills. I share this project to inspire others in the exciting world of data analytics and predictive modeling.
 
