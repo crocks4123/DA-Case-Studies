@@ -27,15 +27,6 @@ To explore any of the projects mentioned above, you can navigate to the respecti
 
 Feel free to use the code, datasets, and insights provided in these projects for educational, research, or exploratory purposes. I hope these projects serve as examples and inspiration for your own data analytics endeavors.
 
-## Contributing
 
-As I continue to work on new projects and expand this repository, I welcome contributions from the community. If you have ideas for new projects, improvements to existing projects, or any suggestions, please feel free to submit pull requests or reach out to discuss your ideas.
 
-## Acknowledgments
-
-I would like to express my gratitude to the data sources, including Amazon and Glassdoor, for providing the datasets used in these projects. Without their valuable data, these analyses would not have been possible.
-
-## Contact
-
-If you have any questions, suggestions, or feedback regarding any of the projects or this repository in general, please feel free to reach out. You can contact me through the contact information provided in the project folders or the repository's main page.
 
